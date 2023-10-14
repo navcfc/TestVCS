@@ -5,7 +5,7 @@ c = a + b
 print(c)
 
 # add the two numnbers together
-a = 10 + b
+a = 10 + c
 print(a)
 
 # add 19090 and a to print and add to a list
